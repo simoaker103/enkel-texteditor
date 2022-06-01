@@ -1,0 +1,12 @@
+C:\Users\simon\source\repos\DVGB07_lab3\DVGB07_lab3\bin\Debug\DVGB07_lab3.exe.config
+C:\Users\simon\source\repos\DVGB07_lab3\DVGB07_lab3\bin\Debug\DVGB07_lab3.exe
+C:\Users\simon\source\repos\DVGB07_lab3\DVGB07_lab3\bin\Debug\DVGB07_lab3.pdb
+C:\Users\simon\source\repos\DVGB07_lab3\DVGB07_lab3\obj\Debug\DVGB07_lab3.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\DVGB07_lab3\DVGB07_lab3\obj\Debug\DVGB07_lab3.Properties.Resources.resources
+C:\Users\simon\source\repos\DVGB07_lab3\DVGB07_lab3\obj\Debug\DVGB07_lab3.csproj.GenerateResource.cache
+C:\Users\simon\source\repos\DVGB07_lab3\DVGB07_lab3\obj\Debug\DVGB07_lab3.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\DVGB07_lab3\DVGB07_lab3\obj\Debug\DVGB07_lab3.exe
+C:\Users\simon\source\repos\DVGB07_lab3\DVGB07_lab3\obj\Debug\DVGB07_lab3.pdb
+C:\Users\simon\source\repos\DVGB07_lab3\DVGB07_lab3\obj\Debug\DVGB07_lab3.TextEditor.resources
+C:\Users\simon\source\repos\DVGB07_lab3\DVGB07_lab3\obj\Debug\DVGB07_lab3.DialogClose.resources
+C:\Users\simon\source\repos\DVGB07_lab3\DVGB07_lab3\obj\Debug\DVGB07_lab3.DialogSave.resources
